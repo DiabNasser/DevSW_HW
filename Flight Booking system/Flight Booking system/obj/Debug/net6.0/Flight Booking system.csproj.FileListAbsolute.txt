@@ -1,0 +1,15 @@
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.csproj.AssemblyReference.cache
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.AssemblyInfoInputs.cache
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.AssemblyInfo.cs
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\bin\Debug\net6.0\Flight Booking system.exe
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\bin\Debug\net6.0\Flight Booking system.deps.json
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\bin\Debug\net6.0\Flight Booking system.runtimeconfig.json
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\bin\Debug\net6.0\Flight Booking system.dll
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\bin\Debug\net6.0\Flight Booking system.pdb
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.dll
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\refint\Flight Booking system.dll
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.pdb
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\Flight Booking system.genruntimeconfig.cache
+C:\Users\l\Desktop\3rd semester\HW SW\Flight Booking system\Flight Booking system\obj\Debug\net6.0\ref\Flight Booking system.dll
